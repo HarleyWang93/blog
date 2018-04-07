@@ -8,7 +8,13 @@
 
 ## JavaScript
 
+- [new](https://github.com/HarleyWang93/blog/issues/12)
+
+- [DOM0、DOM1、DOM2级事件](https://github.com/HarleyWang93/blog/issues/13)
+
 - [跨域](https://github.com/HarleyWang93/blog/issues/4)
+
+- [JS原型链、__proto__ 和 prototype](https://github.com/HarleyWang93/blog/issues/14)
 
 - [常见的几种排序算法总结](https://github.com/HarleyWang93/blog/issues/11)
 
