@@ -20,6 +20,8 @@
 
 - [回调函数](https://github.com/HarleyWang93/blog/issues/19)
 
+- [Promise](https://github.com/HarleyWang93/blog/issues/20)
+
 - [跨域](https://github.com/HarleyWang93/blog/issues/4)
 
 - [JS原型链、__proto__ 和 prototype](https://github.com/HarleyWang93/blog/issues/14)
