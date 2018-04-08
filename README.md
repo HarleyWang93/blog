@@ -2,6 +2,12 @@
 
 ## HTML & CSS
 
+- [从 URL 输入到页面展现](https://github.com/HarleyWang93/blog/issues/16)
+
+- [浏览器兼容](https://github.com/HarleyWang93/blog/issues/17)
+
+- [编码规范](https://github.com/HarleyWang93/blog/issues/18)
+
 - [七种方式实现垂直居中](https://github.com/HarleyWang93/blog/issues/10)
 
 - [Flex 布局](https://github.com/HarleyWang93/blog/issues/6)
@@ -25,6 +31,8 @@
 - [Mac Terminal - iTerm2 配置](https://github.com/HarleyWang93/blog/issues/7)
 
 - [Markdown 基础语法](https://github.com/HarleyWang93/blog/issues/8)
+
+- [Vim 基础使用](https://github.com/HarleyWang93/blog/issues/15)
 
 ## 转载及翻译
 
